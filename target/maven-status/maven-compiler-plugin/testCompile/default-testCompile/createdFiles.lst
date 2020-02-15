@@ -1,0 +1,11 @@
+AEDU/Pages/StudentInformation.class
+AEDU/Reports/ReportClass.class
+AEDU/constants/commonvar.class
+AEDU/Actions/VerificationClass.class
+AEDU/Actions/ActionClass.class
+AEDU/Testcases/Category.class
+AEDU/constants/commonvar$CommonVar.class
+AEDU/Testcases/Basecase.class
+AEDU/Pages/Studentcategory.class
+AEDU/Utilities/DatabaseFunctions.class
+AEDU/Testcases/StudentAdmission.class

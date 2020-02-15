@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suite">
+    <test verbose="2" name="LoginTest">
+        <classes>
+<!--            <class name="AEDU.Reports.ReportClass"/>-->
+<!--            <class name="AEDU.Testcases.Basecase"/>-->
+            <class name="AEDU.Testcases.Connection"/>
+            <class name="AEDU.Testcases.StudentAdmission"/>
+<!--            <class name="AEDU.Testcases.Student_Search"/>-->
+<!--            <class name="AEDU.Testcases.AddStudents"/>-->
+<!--            <class name="AEDU.Testcases.Category"/>-->
+<!--            <class name="AEDU.Testcases.PromoteStudent"/>-->
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.666 sec <<< FAILURE! - in TestSuite
+Sucessful_login(AEDU.Testcases.StudentAdmission)  Time elapsed: 0.048 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at org.openqa.selenium.interactions.Actions.<init>(Actions.java:41)
+	at AEDU.Pages.StudentInformation.StudentInformation(StudentInformation.java:62)
+	at AEDU.Testcases.StudentAdmission.Sucessful_login(StudentAdmission.java:14)
+
